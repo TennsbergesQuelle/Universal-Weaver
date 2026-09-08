@@ -1,2 +1,3 @@
 # Universal-Weaver
-The Universal Weaver is an Allround Data Viewer
+The Universal Weaver is an all-round Data Viewer
+
